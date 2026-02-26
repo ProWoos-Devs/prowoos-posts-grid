@@ -1,0 +1,13 @@
+# Local dev
+CLAUDE.md
+.claude/
+dev-tools/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
